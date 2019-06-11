@@ -1,0 +1,9 @@
+Today we are learing Signal handling. we are learing this because we want to know the exit status of child when it terminate. when we were using wait() or waitpid()
+we are facing problems that we are not able to do task cocurrently.otherwise child will become zombie. to avoid this problem we need to introduce the concept of 
+signal handling so that whenever  the child change its status parent will get notification and parent will take appropriate action.
+this problem can be avoid by two ways.
+1) by polling method
+2) by signal handling or interrupt Service routine
+
+when child exit it throws signal no. SIGCHLD(17).
+ 

@@ -1,0 +1,12 @@
+if we write wait() in starting  of program then parent will wait for child's status.Parenet will procceed after child will change its status. 
+In this condition prcocess are not working cocurrently.
+
+if we write wait() at end of program then child may become zombie. 
+Parent and child should work  cocurrently and child should should not become orphane and zombie.
+/* Prog1 and prog2 is the example of this */
+
+Every new child had new copy of data variable data. Data will change only with respect to that process other process will not affect.
+Any change in parent data will not affect the child data and vice-versa.
+This concept is know as "Copy-On-Write".
+A seperate addspace is made availabe,if data is attempeted to modify.
+/* data_protect.c is example of that  */

@@ -1,0 +1,15 @@
+When we  run prog1.c we found that segmentation fault(core dump) error came. why? 
+it came because that func is recurcessively calling and every copy of this call holds the array of 1 million bytes and this array is taking palce into stack area of RAM.
+So the question is what is the size of stack. how can we know it.
+
+for this type a command on terminal $ ulimit -a
+it will give the features of resoreces dafalt value.So we find there that the size of stack is 8Mb=8 million this the reasone prog1.c cnt upto 8 only after the size of stack is exahaust and process ternibate abnormally.
+
+So that in the normal conditions stack size can be less then the size of stack.
+
+Now question came that can be increase the size? YES
+
+then how ?
+
+we do with the help of getrlimit() and setrlimit(). SEE prog2.c
+  

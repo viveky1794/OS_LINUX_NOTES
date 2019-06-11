@@ -1,0 +1,5 @@
+IPC stands for Inter process communication. it can be achieve by many mechanism which are as following.
+1>Pipe[unnamed file]
+2>FIFO[named file]
+3>Message Queue
+4>shared memory

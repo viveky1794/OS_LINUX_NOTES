@@ -1,0 +1,5 @@
+if we write wait() in starting  of program then parent will wait for child's status.
+In this condition prcocess are not working cocurrently.
+
+if we write wait() at end of program then child may become zombie. 
+Parent and child should work  cocurrently and child should should not become orphane and zombie.
