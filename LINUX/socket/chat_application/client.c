@@ -67,7 +67,7 @@ int main(int argc,char *argv[]){
 
 	bzero(buffer,255);
 
-	n == read(sockfd,buffer,255);
+	n = read(sockfd,buffer,255);
 	if(n < 0 )
 		error("Error on writing\n");
 
