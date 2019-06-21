@@ -123,6 +123,6 @@ int main(int argc,char *argv[])
 	  send(sock2, &i, sizeof(int), 0);
 	  exit(0);
 	}
-    }
+   }
   return 0;
 }
