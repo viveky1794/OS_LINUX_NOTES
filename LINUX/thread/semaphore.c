@@ -16,18 +16,18 @@ To wait on a semaphore, use sem_wait:
 Example of use:
   sem_wait(&sem_name);
 
-If the value of the semaphore is negative, the calling process blocks; one of the blocked processes wakes up when another process calls sem_post.
+>>>> If the value of the semaphore is negative, the calling process blocks; one of the blocked processes wakes up when another process calls sem_post.
 To increment the value of a semaphore, use sem_post:
   int sem_post(sem_t *sem);
 Example of use:
   sem_post(&sem_name);
 
-It increments the value of the semaphore and wakes up a blocked process waiting on the semaphore, if any.
+>>>> It increments the value of the semaphore and wakes up a blocked process waiting on the semaphore, if any.
 To find out the value of a semaphore, use
   int sem_getvalue(sem_t *sem, int *valp);
   
-gets the current value of sem and places it in the location pointed to by valp
-Example of use:
+>>>> gets the current value of sem and places it in the location pointed to by valp
+     Example of use:
   int value; 
   sem_getvalue(&sem_name, &value); 
   printf("The value of the semaphors is %d\n", value);
@@ -83,7 +83,8 @@ int main()
     
     pthread_join(thread_a, NULL);
     pthread_join(thread_b, NULL);
-
+:w
+  
     sem_destroy(&mutex); /* destroy semaphore */
                   
     /* exit */  
