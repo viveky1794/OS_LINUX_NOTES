@@ -1,3 +1,7 @@
+All these resources are helpfull when you are trying to develop your own OS.
+
+
+
 Youtube Channel :
 	https://www.youtube.com/watch?v=l2wZf45ZcAg
 	
