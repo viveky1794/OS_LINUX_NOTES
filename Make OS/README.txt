@@ -12,3 +12,4 @@ Other Resources :
 	https://wiki.osdev.org/Main_Page
 	https://github.com/pritamzope/OS
 	http://createyourownos.blogspot.com/p/an-x86.html
+	http://www.cs.bham.ac.uk/~exr/teaching/lectures/opsys/13_14/lectures.php
