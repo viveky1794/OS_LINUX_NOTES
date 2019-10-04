@@ -9,6 +9,10 @@ LINUX Device Drivers:
          2 : Device Drivers, Part 2: Writing Your First Linux Driver in the...
          3 : Device Drivers, Part 3: Kernel C Extras in a Linux Driver
          4 : Device Drivers, Part 4: Linux Character Drivers
+         5 : Device Drivers, Part 5: Character Device Files — Creation & Operations
+         6 : Device Drivers, Part 6: Decoding Character Device File Operations
+         
+         LINK : https://sysplay.in/index.php?pagefile=linux_drivers
         
         
         
