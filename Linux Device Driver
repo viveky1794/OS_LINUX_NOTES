@@ -13,7 +13,17 @@ LINUX Device Drivers:
          6 : Device Drivers, Part 6: Decoding Character Device File Operations
          
          LINK : https://sysplay.in/index.php?pagefile=linux_drivers
-        
+         
+         7 : Device Drivers, Part 7: Generic Hardware Access in Linux
+         8 : Device Drivers, Part 8: Accessing x86-Specific I/O-Mapped Hardware
+         
+         LINK : https://github.com/esrijan/ddk-software/tree/fw/v2.2/LDDKFirmware/Code
+         LINK : https://github.com/torvalds/linux/blob/master/include/uapi/linux/serial_reg.h
+                This is Actual device driver writeen from datasheet PC16550D.
+                
+         LINK : https://sysplay.in/blog/linux-device-drivers/2013/09/accessing-x86-specific-io-mapped-hardware-in-linux/
+         
+         9 : Device Drivers, Part 9: I/O Control in Linux
         
         
         
