@@ -24,7 +24,10 @@ LINUX Device Drivers:
          LINK : https://sysplay.in/blog/linux-device-drivers/2013/09/accessing-x86-specific-io-mapped-hardware-in-linux/
          
          9 : Device Drivers, Part 9: I/O Control in Linux
+        10 : Device Drivers, Part 10: Kernel-Space Debuggers in Linux
+        11 : Device Drivers, Part 11: USB Drivers in Linux
         
+        LINK : https://github.com/spotify/linux/blob/master/Documentation/usb/proc_usb_info.txt
         
         
         
