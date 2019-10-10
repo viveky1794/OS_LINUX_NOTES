@@ -30,9 +30,14 @@ LINUX Device Drivers:
         LINK : https://github.com/spotify/linux/blob/master/Documentation/usb/proc_usb_info.txt
         
         12 : Device Drivers, Part 12: USB Drivers in Linux Continued--->>>>[Not Compeleted Yet]
+        13 : Device Drivers, Part 13: Data Transfer to and from USB Devices
+        14 : Device Drivers, Part 14: A Dive Inside the Hard Disk for Understanding Partitions
+                ---- Not understood well again read
         
-        
-        
+
+
+
+
         
  2: https://www-user.tu-chemnitz.de/~heha/viewchm.php/hs/LinuxDeviceDrivers3.chm/
  
