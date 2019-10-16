@@ -3,11 +3,6 @@ LINUX Device Drivers:
 ### Learn About Makefile :
     Read [here!](http://opensourceforu.com/2012/06/gnu-make-in-detail-for-beginners/)
     
-    It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-    
-    
-    
-    
    
     
  1: https://opensourceforu.com/?s=device+driver
