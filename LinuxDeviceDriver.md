@@ -1,15 +1,13 @@
 LINUX Device Drivers:
 ### Learn About Makefile :
-    Read [this](http://opensourceforu.com/2012/06/gnu-make-in-detail-for-beginners)
-    
-    
-   
-    
+
  1: https://opensourceforu.com/?s=device+driver
     -> This link will provide you information about device drivers. It has no of articals.
-        I am still trying to read them then update more about this .....
-        
+        I am still trying to read them then update more about this .....       
         What articals i have read in this serials of Linux Device Drivers
+         To know about makefile  Read [this](http://opensourceforu.com/2012/06/gnu-make-in-detail-for-beginners)
+         
+                
          1 : Device Drivers, Part 1: Linux Device Drivers for Your Girl Friend
          2 : Device Drivers, Part 2: Writing Your First Linux Driver in the...
          3 : Device Drivers, Part 3: Kernel C Extras in a Linux Driver
@@ -43,7 +41,6 @@ LINUX Device Drivers:
 
 
 
-        
  2: https://www-user.tu-chemnitz.de/~heha/viewchm.php/hs/LinuxDeviceDrivers3.chm/
  
  3: http://haifux.org/lectures/86-sil/kernel-modules-drivers/node14.html#h
