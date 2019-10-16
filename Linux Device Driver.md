@@ -1,7 +1,8 @@
 LINUX Device Drivers:
 
 ### Learn About Makefile :
-    Read [here](http://opensourceforu.com/2012/06/gnu-make-in-detail-for-beginners)
+    Read [here](<http://www.opensourceforu.com/2012/06/gnu-make-in-detail-for-beginners/>)
+    [link text itself]: http://www.reddit.com
     
  1: https://opensourceforu.com/?s=device+driver
     -> This link will provide you information about device drivers. It has no of articals.
