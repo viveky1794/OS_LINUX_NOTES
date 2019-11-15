@@ -43,7 +43,8 @@
         
    [LINK](https://github.com/spotify/linux/blob/master/Documentation/usb/proc_usb_info.txt)        
                 
-12 : Device Drivers, Part 12: USB Drivers in Linux Continued--->>>>[Not Compeleted Yet]
+12 : Device Drivers, Part 12: USB Drivers in Linux 
+  to check USB devices $cat /sys/bus/usb/devices/*/product
         
 13 : Device Drivers, Part 13: Data Transfer to and from USB Devices
         
