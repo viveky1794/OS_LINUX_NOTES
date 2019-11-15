@@ -8,7 +8,7 @@
         What articals i have read in this series of Linux Device Drivers. i have mentioned them all.
         
    + -> To know about makefile  Read [this](http://opensourceforu.com/2012/06/gnu-make-in-detail-for-beginners)  
-  ==================================================================================   
+  ========================================================================   
   
  1 : Device Drivers, Part 1: Linux Device Drivers for Your Girl Friend
          
