@@ -3,7 +3,7 @@
 
  1: [Open Source Link](https://opensourceforu.com/?s=device+driver)
  
- + -> [Same Author but Other Link](https://sysplay.in/blog/category/linux-device-drivers/)
+ + -> [Same Author but Other Link](https://sysplay.github.io/books/LinuxDrivers/book/Content/Part13.html)
     
    + -> This link will provide you information about device drivers. It has nu mber of articals.
         I am still trying to read them then update more about this .....       
