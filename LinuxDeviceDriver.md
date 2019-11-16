@@ -61,4 +61,4 @@ to check USB devices $cat /sys/bus/usb/devices/*/product
  
  4: [TU Delf University Documents Link](http://epic-alfa.kavli.tudelft.nl/share/doc/kernel-doc-2.6.32/Documentation/DocBook/usb/)
  
- 
+ 5: [LINUX DEVICE DRIVERS BOOK](https://www.oreilly.com/library/view/linux-device-drivers/0596005903/ch13.html)
