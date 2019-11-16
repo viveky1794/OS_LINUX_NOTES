@@ -2,6 +2,8 @@
 ### Learn About Makefile :
 
  1: [Open Source Link](https://opensourceforu.com/?s=device+driver)
+ 
+ + -> [Same Author but Other Link](https://sysplay.in/blog/category/linux-device-drivers/)
     
    + -> This link will provide you information about device drivers. It has nu mber of articals.
         I am still trying to read them then update more about this .....       
