@@ -49,7 +49,7 @@
 
 to check USB devices $cat /sys/bus/usb/devices/*/product
         
-13 : Device Drivers, Part 13: Data Transfer to and from USB Devices
+13 : [Device Drivers, Part 13: Data Transfer to and from USB Devices](https://opensourceforu.com/2011/12/data-transfers-to-from-usb-devices/)
         
 14 : Device Drivers, Part 14: A Dive Inside the Hard Disk for Understanding Partitions
                 ---- Not understood well again read
