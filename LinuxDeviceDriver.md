@@ -25,7 +25,9 @@
    2 : $ make -C /lib/modules/$(uname -r)/build M=$PWD modules
    
    3 : $ insmod <name of Driver.ko>
-   4 : dmesg
+ 
+   4 : $ dmesg
+ 
    5 : $ rmmode <name of Driver.ko>
   ========================================================================   
   
