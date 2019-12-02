@@ -11,7 +11,7 @@
         
    + -> To know about makefile  Read [this](http://opensourceforu.com/2012/06/gnu-make-in-detail-for-beginners)  
    
-   + ->> Rule for Making Makefile for driver
+   + ->> [Rule for Making Makefile for driver](https://www.youtube.com/watch?v=Zn8mEZXr6nE)
    
     1 : $ vim Makefile
     
@@ -19,7 +19,8 @@
               obj-m := testUSB.o
               
        --->>> Comeout from this Makefile
-       /* Run make command as root user */
+       
+    /* Run make command as root user. A simple space can make your life hell and spend many hours. Above vedio must watch */
     2 : $ make -C /lib/modules/$(uname -r)/build M=$PWD modules
    
     3 : $ insmod <name of Driver.ko>
