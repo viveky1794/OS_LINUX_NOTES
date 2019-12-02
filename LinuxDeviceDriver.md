@@ -10,6 +10,21 @@
         What articals i have read in this series of Linux Device Drivers. i have mentioned them all.
         
    + -> To know about makefile  Read [this](http://opensourceforu.com/2012/06/gnu-make-in-detail-for-beginners)  
+   
+   + ->> Rule for Making Makefile for driver
+   
+    1 : $ vim Makefile
+    
+       --->>> Wite only one line 
+              obj-m := testUSB.o
+              
+       --->>> Comeout from this Makefile
+       /* Run make command as root user */
+    2 : $ make -C /lib/modules/$(uname -r)/build M=$PWD modules
+   
+    3 : $ insmod <name of Driver.ko>
+    4 : dmesg
+    5 : $ rmmode <name of Driver.ko>
   ========================================================================   
   
  1 : Device Drivers, Part 1: Linux Device Drivers for Your Girl Friend
