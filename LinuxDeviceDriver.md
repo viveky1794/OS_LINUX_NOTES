@@ -29,6 +29,12 @@
    4 : $ dmesg
  
    5 : $ rmmode <name of Driver.ko>
+ 
+   6 : 
+       -->> read USB End Points 
+          $ ls /sys/bus/usb/devices/1-0\:1.0/ep_81/
+  
+ 
   ========================================================================   
   
  1 : Device Drivers, Part 1: Linux Device Drivers for Your Girl Friend
